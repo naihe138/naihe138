@@ -25,12 +25,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://cn.vuejs.org/images/logo.png"></code>
 
-[![KieSun's github stats](https://github-readme-stats.vercel.app/api?username=naihe138)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/KieSun/react-interpretation">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=naihe138&repo=vue-picker" />
-</a>
-
-<a href="https://github.com/KieSun/Dream">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=naihe138&repo=naice-blog" />
-</a>
+[![naihe138's github stats](https://github-readme-stats.vercel.app/api?username=naihe138)](https://github.com/anuraghazra/github-readme-stats)
