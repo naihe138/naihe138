@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 ### My github
 ![](https://github-readme-stats.vercel.app/api?username=naihe138&count_private=true&show_icons=true&theme=onedark)
 
-### Contact me
-邮箱：370215230@qq.com
